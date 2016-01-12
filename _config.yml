@@ -1,0 +1,28 @@
+name: Jacky Tang Photo
+favicon: null
+layout_spectrum: 0.5348884067498147
+typography_spectrum: 0.015269816154614091
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9730025473982096
+  lightness: 0.48603633139282465
+  saturation: 0.36864820099435747
+  rhythmicContrast: 0.2409732781816274
+purpose: []
